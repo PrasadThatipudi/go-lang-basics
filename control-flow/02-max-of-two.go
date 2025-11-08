@@ -8,6 +8,13 @@ import "fmt"
 // Example: a = 5, b = 5 -> Output: equal
 func main() {
 	a := 10
-	b := 7
+	b := 12
 	
+	if a == b {
+		fmt.Println("equal");
+	} else if a < b {
+		fmt.Println(b)
+	} else {
+		fmt.Println(a)
+	}
 }
