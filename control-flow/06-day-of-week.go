@@ -10,5 +10,5 @@ import "fmt"
 // Example: day = 9 -> Output: invalid
 func main() {
 	day := 5
-	// START YOUR CODE AFTER THIS LINE. DO NOT REMOVE THIS LINE
+	
 }

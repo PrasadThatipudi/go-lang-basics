@@ -9,5 +9,5 @@ import "fmt"
 // Example: number = 12 -> Output: false
 func main() {
 	number := 13
-	// START YOUR CODE AFTER THIS LINE. DO NOT REMOVE THIS LINE
+	
 }

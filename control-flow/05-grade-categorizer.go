@@ -9,5 +9,5 @@ import "fmt"
 // Example: score = 59 -> Output: F
 func main() {
 	score := 85
-	// START YOUR CODE AFTER THIS LINE. DO NOT REMOVE THIS LINE
+	
 }

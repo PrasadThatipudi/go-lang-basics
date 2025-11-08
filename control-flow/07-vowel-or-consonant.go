@@ -9,5 +9,5 @@ import "fmt"
 // Example: ch = 'z' -> Output: consonant
 func main() {
 	ch := 'a'
-	// START YOUR CODE AFTER THIS LINE. DO NOT REMOVE THIS LINE
+	
 }

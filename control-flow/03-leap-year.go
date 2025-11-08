@@ -10,5 +10,5 @@ import "fmt"
 // Example: year = 2024 -> Output: true
 func main() {
 	year := 2024
-	// START YOUR CODE AFTER THIS LINE. DO NOT REMOVE THIS LINE
+	
 }

@@ -9,5 +9,4 @@ import "fmt"
 // Example: number = 0 -> Output: zero
 func main() {
 	number := 5
-	// START YOUR CODE AFTER THIS LINE. DO NOT REMOVE THIS LINE
 }

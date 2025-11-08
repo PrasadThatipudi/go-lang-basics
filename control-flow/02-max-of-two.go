@@ -9,5 +9,5 @@ import "fmt"
 func main() {
 	a := 10
 	b := 7
-	// START YOUR CODE AFTER THIS LINE. DO NOT REMOVE THIS LINE
+	
 }
