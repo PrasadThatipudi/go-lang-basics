@@ -9,6 +9,15 @@ import "fmt"
 // Example: year = 1900 -> Output: false
 // Example: year = 2024 -> Output: true
 func main() {
-	year := 2024
-	
+	year := 4
+
+	if year % 400 == 0 {
+		fmt.Println(true);
+	} else if year % 100 == 0 {
+		fmt.Println(false)
+	} else if year % 4 == 0 {
+		fmt.Println(true)
+	} else {
+		fmt.Println(false);
+	}
 }
