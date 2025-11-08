@@ -8,5 +8,13 @@ import "fmt"
 // Example: number = -2 -> Output: negative
 // Example: number = 0 -> Output: zero
 func main() {
-	number := 5
+	number := -1
+
+	if number > 0 {
+		fmt.Println("positive")
+	} else if number < 0 {
+		fmt.Println("negative")
+	} else {
+		fmt.Println("zero");
+	}
 }
